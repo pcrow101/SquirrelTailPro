@@ -1,0 +1,14 @@
+CI_CHECKPOINT
+PASSED
+FATAL
+ERROR
+Test Step
+SPM_SERVER
+Debug
+PJC Debug
+-BEM
+KEY_PRESS: code=
+KEY_PRESS: code=0xe304
+!MIL
+mc_create
+hmc=0x6
