@@ -3,11 +3,13 @@
 ### What it is
 SquirrelTailPro is a logfile viewer that runs on the Mac.  It is written in Python3 with QT5.
 
+![SquirrelTailPro](Main_screen.png "SquirrelTailPro - Main screen")
+
 ### Why it exists
 There are two main reason why SquirrelTailPro exists:
 
-1. I was fed up with using BareTailPro via Wine on the Mac as cut & paste did not work correctly and it occasionally crashed.
-2. I wanted to learn python and having completed the basic 'Hello Word' training needed something that was a bit more of a challenge.  
+- I was fed up with using BareTailPro via Wine on the Mac as cut & paste did not work correctly and it occasionally crashed.
+- I wanted to learn python and having completed the basic 'Hello Word' training needed something that was a bit more of a challenge.  
 
 ### Download/Installation
 Extract SquirrelTailPro and run 'python3 squirreltailpro.py'
